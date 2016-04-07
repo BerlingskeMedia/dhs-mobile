@@ -5,19 +5,19 @@ var appConfig = {
     maxStarRating: 6,
     itemsInSection: 30,
     editorialId: 1418,
-    frontpageQueueId: 1375,
+    frontpageQueueId: 1133,
     frontpageItems: 21,
-    canonicalDomain: 'http://amtsavisen.dk',
-    chartbeatApikey: 'befae81db2c9f044dad601e8f43f6080',
-    chartbeatHost: 'amtsavisen.dk',
+    canonicalDomain: 'http://dagbladet-holstebro-struer.dk/',
+    chartbeatApikey: '3b409894d95b1a406a72ce039bbc4b26',
+    chartbeatHost: 'dagbladet-holstebro-struer.dk',
     defaultImageSize: '866x487-c',
-    defaultMetaTitle: 'Randers Amtsavis - mobil',
+    defaultMetaTitle: 'Dagbladet - mobil',
     timeAgoNowThreshold: 2,
     timeAgoMinuteThreshold: 59,
     timeAgoHourThreshold: 119,
     timeAgoDayThreshold: 119,
     weatherCacheTTLinSecs: 500,
-    weatherCity: 'Randers',
+    weatherCity: 'Holstebro',
     weatherIcons: {
             'day': {
               '200': 'thunderstorm',
@@ -188,19 +188,19 @@ var appConfig = {
 
     ],
     socials: {
-        facebook: 'https://www.facebook.com/amtsavisen',
-        twitter: 'https://twitter.com/Amtsavisendk',
-        instagram: 'http://instagram.com/amtsavisen',
+        facebook: 'https://www.facebook.com/netavisen',
+        twitter: 'https://twitter.com/Netavisen',
+        instagram: 'https://www.instagram.com/dagbladetholstebro',
         google: 'https://plus.google.com/115329460845330231424/about'
     },
     footer: {
         copyright: "2016 Jysk Fynske Medier",
-        tipmail: 'redaktion@amtsavisen.dk',
-        logo: '/assets/images/ram_footer.svg',
-        phoneNum: 'tel:+4587122000',
-        phoneNumDisplay: '+45 8712 2000',
+        tipmail: 'holstebro@bergske.dk',
+        logo: '/assets/images/dhs_footer.svg',
+        phoneNum: 'tel:+4599128300',
+        phoneNumDisplay: '+45 9912 8300',
         maplink: 'https://www.google.dk/maps/place/Amtsavisen+-+Randers+Amtsavis/@56.4618659,10.0333604,17z/data=!3m1!4b1!4m2!3m1!1s0x464c1cd07e8dc1d9:0xdca291422097b172',
-        postalAddress: 'Nørregade 7 · 8900 Randers',
+        postalAddress: 'Kirkestræde 1-3 · 7500 Holstebro',
         policies: {
             copyright: {
                 text: 'Ophavsret og vilkår',
@@ -218,7 +218,7 @@ var appConfig = {
         business: {
             subscription: {
                 text: 'Abonnement',
-                link: 'http://abonnement.amtsavisen.dk/'
+                link: 'http://abonnement.dagbladet-holstebro-struer.dk/'
             },
             ads: {
                 text: 'Annoncering',
@@ -226,7 +226,7 @@ var appConfig = {
             },
             service: {
                 text: 'Kundeservice',
-                link: 'https://amtsavisen.kundeunivers.dk/kontakt'
+                link: 'https://dagbladet-holstebro.kundeunivers.dk/kontakt'
             }
         },
     }
