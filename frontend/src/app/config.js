@@ -74,79 +74,35 @@ var appConfig = {
     sections: {
       sport: {
         name: 'Sport',
-        id: 1405
-      },
-      oestjylland: {
-        name: 'Østjylland',
-        id: 1391,
-        subsections: [
-          {slug: 'oestjylland', name: 'Østjylland'},
-          {slug: 'randers', name: 'Randers'},
-          {slug: 'mariagerfjord', name: 'Mariagerfjord'},
-          {slug: 'favrskov', name: 'Favrskov'},
-          {slug: 'norddjurs', name: 'Norddjurs'},
-          {slug: 'syddjurs', name: 'Syddjurs'},
-        ]
+        id: 1156
       },
       indland: {
         name: 'Danmark',
-        id: 1397
+        id: 1151
       },
       verden: {
         name: 'Verden',
-        id: 1398
-      },
-      kultur: {
-        name: 'Kultur',
-        id: 1406
+        id: 1152
       },
       erhverv: {
         name: 'Erhverv',
-        id: 1399
-      },
-      navne: {
-        name: 'Navne',
-        id: 1420
+        id: 1153
       },
       fodbold: {
-        name: 'Fodbold',
+        name: 'Fodbold', //TODO
         id: 331535
-      },
-      basketball: {
-        name: 'Basketball',
-        id: 331537
-      },
-      haandbold: {
-        name: 'Håndbold',
-        id: 331536
       },
       alarm112: {
         name: 'Alarm 112',
-        id: 1401
+        id: 1154
+      },
+      krimi: {
+        name: 'Krimi',
+        id: 1155
       },
       debat: {
         name: 'Debat',
-        id: 1417
-      },
-      randers: {
-        name: 'Randers',
-        id: 1390
-      },
-      mariagerfjord: {
-        name: 'Mariagerfjord',
-        id: 1390
-      },
-      favrskov: {
-        name: 'Favrskov',
-        id: 1393
-      },
-      syddjurs: {
-        name: 'Syddjurs',
-        id: 1394
-      },
-      norddjurs: {
-        name: 'Norddjurs',
-        id: 1395
+        id: 1174
       },
     },
     sportsTeams: [
